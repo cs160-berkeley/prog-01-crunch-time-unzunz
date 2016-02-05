@@ -1,22 +1,19 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Calories Counter is a simple app that converts exercise measurements to calories and vice versa.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Unzi Park (unzi.park@berkeley.edu)
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [https://www.youtube.com/watch?v=MOtRFlktq6c]
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+<img src="screenshots/calories_counter_11" height="400" alot="Screenshot"/>
+<img src="screenshots/calories_counter_12" height="400" alot="Screenshot"/>
+<img src="screenshots/calories_counter_13" height="400" alot="Screenshot"/>
+<img src="screenshots/calories_counter_21" height="400" alot="Screenshot"/>
+<img src="screenshots/calories_counter_22" height="400" alot="Screenshot"/>
